@@ -4,6 +4,13 @@
 
 A modern, beautiful, and accessible web application for managing medical appointments and tests with a stunning Neomorphism 2.0 design.
 
+<div align="center">
+
+### 🌐 [**Try Live Demo**](https://appointment-tracker-hodrj0qcy-narencandys-projects.vercel.app) 🌐
+
+</div>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel)](https://appointment-tracker-hodrj0qcy-narencandys-projects.vercel.app)
 [![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
@@ -58,6 +65,18 @@ A modern, beautiful, and accessible web application for managing medical appoint
 
 ## 🎬 Demo
 
+### 🚀 Live Application
+
+<div align="center">
+
+## **[👉 Click Here to Try the Live App 👈](https://appointment-tracker-hodrj0qcy-narencandys-projects.vercel.app)**
+
+**Deployed on Vercel** | **Fully Functional** | **No Installation Required**
+
+</div>
+
+---
+
 ### Screenshots
 
 **Light Mode - Main Interface**
@@ -68,9 +87,6 @@ A modern, beautiful, and accessible web application for managing medical appoint
 
 **Mobile Responsive**
 ![Mobile View](https://via.placeholder.com/400x700/E0E5EC/2D3748?text=Mobile+View)
-
-### Live Demo
-🔗 [View Live Demo](https://your-app.vercel.app) _(Coming Soon)_
 
 ---
 
